@@ -1,0 +1,12 @@
+# Dependencies
+node_modules/
+.DS_Store
+*.log
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
+desktop.ini
