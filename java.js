@@ -15,3 +15,7 @@ function calculate (){
         display.value= "error"
     }
 }
+
+function deleteLast (){
+    display.value = display.value.slice(0, -1) || '0';
+}
